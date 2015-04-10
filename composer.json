@@ -1,0 +1,21 @@
+{
+	"name": "rhincodon/Nacho",
+	"description": "Nacho, nacho man. I want to be a nacho man",
+	"license": "MIT",
+	"keywords": ["nacho"],
+	"authors": [
+		{
+			"name": "rhincodon",
+			"email": "rhinodontypicus@gmail.com"
+		}
+	],
+	"require": {},
+	"require-dev": {
+		"phpunit/phpunit": "4.6.*"
+	},
+	"autoload": {
+		"psr-4": {
+			"Rhincodon\\Nacho\\": "src"
+		}
+	}
+}
