@@ -1,4 +1,4 @@
-<?php namespace Rhincodon\Nacho;
+<?php namespace Rhincodon\Learn;
 
 class Nacho {
     public function hasCheese($bool = true)

@@ -1,0 +1,4 @@
+suites:
+    rhincodon_suite:
+        namespace: Rhincodon\Learn
+        psr4_prefix: Rhincodon\Learn
