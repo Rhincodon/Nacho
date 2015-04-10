@@ -1,8 +1,8 @@
 {
-	"name": "rhincodon/nacho",
-	"description": "Nacho, nacho man. I want to be a nacho man",
+	"name": "rhincodon/learn",
+	"description": "Learning some tests",
 	"license": "MIT",
-	"keywords": ["nacho"],
+	"keywords": ["learning"],
 	"authors": [
 		{
 			"name": "rhincodon",
